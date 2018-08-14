@@ -1,0 +1,3 @@
+A aplicação devera controlar as finanças das pessoas. 
+Calculando a entrada o processamento e a saída de sua finança. 
+E por fim exibir na tela o saldo atual.
